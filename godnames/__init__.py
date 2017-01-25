@@ -1,1 +1,1 @@
-from godnames import *
+from .godnames import *
