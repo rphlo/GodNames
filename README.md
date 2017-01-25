@@ -1,0 +1,2 @@
+# GodNames
+Generate random names
