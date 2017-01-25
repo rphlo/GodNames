@@ -7,8 +7,8 @@ setup(
   description = 'A library to generate randomly names',
   author = 'Raphael Stefanini',
   author_email = 'rphl@rphl.net',
-  url = 'https://github.com/rphlo/GodNames',
-  download_url = 'https://github.com/rphlo/GodNames/tarball/1.0', # I'll explain this in a second
+  url = 'https://github.com/rphlo/py-godnames',
+  download_url = 'https://github.com/rphlo/py-godnames/tarball/1.0',
   keywords = ['random', 'naming', 'name'],
   classifiers = [],
 )
