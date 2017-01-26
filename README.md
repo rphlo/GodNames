@@ -1,5 +1,15 @@
 # GodNames
 Generate random names
 ## Usage
-    import godnames
-    print(godnames.generate())
+From python
+    
+    >>> import godnames
+    >>> godnames.generate()
+    'ragazes'
+    >>> godnames.generate(3)
+    ['thuron', 'thaehohaz', 'lozen']
+
+Using command_line tool
+    
+    $ godname 
+    thothethos
